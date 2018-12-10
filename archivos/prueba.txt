@@ -1,0 +1,4 @@
+Este es un archivo de prueba
+Con este archivo iniciamos nuestro 
+aprendizaje de gestion de archivos
+en Python

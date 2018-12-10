@@ -1,0 +1,4 @@
+linea 1 --> Este es un archivo de prueba
+linea 2 --> Con este archivo iniciamos nuestro 
+linea 3 --> aprendizaje de gestion de archivos
+linea 4 --> en Python
