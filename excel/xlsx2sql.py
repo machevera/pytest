@@ -63,7 +63,7 @@ archivo_sql.write("--Configuracion de Sesion"+"\n")
 archivo_sql.write("SET FEEDBACK OFF" + "\n\n")
 archivo_sql.write("ALTER SESSION SET NLS_DATE_FORMAT='YYYY/MM/DD HH24:MI:SS' ;" + "\n\n")
 archivo_sql.write("--Reseteo de Datos"+"\n")
-archivo_sql.write("DELETE ctrlm_stats WHERE fecha_excel =" + fecha_archivo+ ";\n\n")
+#archivo_sql.write("DELETE ctrlm_stats WHERE fecha_excel =" + fecha_archivo+ ";\n\n")
 #rangos de hoja
 fila_min = hoja.min_row 
 fila_max = hoja.max_row
